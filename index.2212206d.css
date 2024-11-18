@@ -1,0 +1,18 @@
+.Cell-on {
+  background-color: #1cc348;
+  border: none;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin: 20px;
+}
+
+.Cell-off {
+  background-color: #373737;
+  border: none;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin: 20px;
+}
+/*# sourceMappingURL=index.2212206d.css.map */
